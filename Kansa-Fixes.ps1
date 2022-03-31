@@ -1,6 +1,6 @@
-﻿<#
+<#
 
-Kansa Script Get-ASEPImagePathLaunchStringMD5UnsignedStack.ps1 needs a dependency "logparser.exe" and is busted for logparser 2.2
+Kansa Script Get-ASEPImagePathLaunchStringMD5UnsignedStack.ps1 needs a dependency "logparser.exe" and it's not really needed
 
 Use this native Powershell version instead
 
